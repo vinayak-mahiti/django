@@ -8,3 +8,6 @@ Runserver : python manage.py runserver
 Episode 02
 ----------
 
+myproject/myproject/settings.py
+    database, NAME: django.db.backends.sqlite3
+    time-zone = '***'
