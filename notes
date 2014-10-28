@@ -1,0 +1,3 @@
+Installing Django : pip install django
+Starting project : django-admin.py startproject <projectname>
+Runserver : python manage.py runserver
