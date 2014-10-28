@@ -1,3 +1,8 @@
 from django.db import models
 
-# Create your models here.
+class Article(models.Model):
+    title = models.Charfield (max_length = 200)
+    body = models.TextFeild()
+    pub_date = models.DateTimeField('date published')
+    likes = model.IntegerField()
+    
