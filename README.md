@@ -1,0 +1,4 @@
+django
+======
+
+My django practice
