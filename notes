@@ -11,3 +11,4 @@ Episode 02
 myproject/myproject/settings.py
     database, NAME: django.db.backends.sqlite3
     time-zone = '***'
+python manage.py startapp <appname> to add an app to our project
